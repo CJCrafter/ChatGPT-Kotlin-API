@@ -1,5 +1,3 @@
-package me.cjcrafter.gptassist
-
 /**
  * Caches the initial request to make interactions easier (and String based).
  */
