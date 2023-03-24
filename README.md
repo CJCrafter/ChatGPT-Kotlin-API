@@ -1,3 +1,8 @@
+---
+# THIS REPOSITORY HAS BEEN ARCHIVED AND IS NOW DEVELOPED [HERE](https://github.com/CJCrafter/ChatGPT-Java-API).
+# DO NOT USE THIS REPOSITORY, USE THE [FULL VERSION](https://github.com/CJCrafter/ChatGPT-Java-API) INSTEAD
+---
+
 # ChatGPT-Kotlin-API
 This is an easy-to-use "drag and drop" API that allows you to use OpenAI's new ChatGPT API. 
 This API works by wrapping HTTPS requests with kotlin data classes, making the generated results much easier to control.
